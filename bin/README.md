@@ -5,4 +5,3 @@ Section 1-6 -> Basic Spring Boot development environment setup in STS, spring da
 
 Section 7 -> Implementing User Sign Up, also this section covers basic overview to Http methods, implementing Request model, DTO, Service tier implementation, Entity class using Spring Data JPA annotations and Repository layer.
 
-Section 8 -> Encrypting user password using Spring Security, making User Sign Up endpoint public
